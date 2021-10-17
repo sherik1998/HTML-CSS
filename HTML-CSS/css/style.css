@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    
+    background: url("../img/964769.png");
+    background-size: 100% auto;
+    
+    
+    font-family: Tahoma;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.card{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    
+    background-color: #fff;
+    box-shadow: 0 5px 10px #9d9d9d;
+    border-radius: 10px;
+}
+
+.card-photo{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.card-title{
+    font-size: 20px;
+    text-align: center;
+    color: #d80000;
+}
+
+.card-text{
+    font-size: 14px;
+}
+
+.card-subtitle{
+    font-size: 18px;
+    color: #ad0000;
+}
+
+.card-list{
+    padding-left: 0;
+    list-style-position: inside;
+    font-size: 14px;
+}
